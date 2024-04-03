@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000; /* Set background color */
+}
+
+.netflix-logo {
+    display: flex;
+    font-size: 3em;
+    font-family: 'Helvetica Neue',Arial, Helvetica, sans-serif;
+    color: #e50914; /* Netflix red color */
+    background-color: #000;
+}
+
+.netflix-logo div {
+    padding: 0.2em;
+}
+
+.button{
+    align-items:normal;
+    size: 10rem;
+    
+}
